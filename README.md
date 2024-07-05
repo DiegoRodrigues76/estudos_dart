@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de estudo em Dart! Aqui você encontrará algumas 
 
 ## Objetivo
 
-O principal objetivo deste repositório é proporcionar um espaço onde posso aplicar os conceitos aprendidos em Dart de forma prática. Estou focado em entender melhor os princípios fundamentais da linguagem (Lógica de Programação) e explorar suas capacidades para futuramente desenvolver aplicações _mobile_ com o *Flutter*.
+O principal objetivo deste repositório é proporcionar um espaço onde posso aplicar os conceitos aprendidos em Dart de forma prática. Estou focado em entender melhor os princípios fundamentais da linguagem (Lógica de Programação) e explorar suas capacidades para futuramente desenvolver aplicações _mobile_ com o _Flutter_.
 
 ## Estrutura do Repositório
 
@@ -12,4 +12,4 @@ O principal objetivo deste repositório é proporcionar um espaço onde posso ap
 
 ## Como Contribuir
 
-Se você tem sugestões, correções ou gostaria de contribuir de alguma forma para as atividades presentes neste repositório, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou aberto a receber feedbacks construtivos e aprender com a comunidade.
+Se você tem sugestões, correções ou gostaria de contribuir de alguma forma para as atividades presentes neste repositório, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_. Estou aberto a receber feedbacks construtivos e aprender com a comunidade.
